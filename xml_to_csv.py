@@ -1,4 +1,4 @@
-"""modified by proof 
+"""modified by SSY 2024
 
 Usage:
 # Create train data: 
